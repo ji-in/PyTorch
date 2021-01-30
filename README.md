@@ -1,1 +1,1 @@
-# Pytorch
+# PyTorch 튜토리얼 번역
